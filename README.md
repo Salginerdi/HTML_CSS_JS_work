@@ -1,2 +1,2 @@
-# Restaurant_Website_with_HTML5-CSS3-JS
-I created a restaurant website using HTML &amp; CSS and simple JavaScript coding.
+# Restaurant-Website(including javascript)
+A restaurant website with responsive design that I made using HMTL CSS and JavaScript.
